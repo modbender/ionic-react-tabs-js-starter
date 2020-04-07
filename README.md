@@ -1,1 +1,1 @@
-*Ionic React Tabs JS (not TS) Starter/Boilerplate*
+# Ionic React Tabs JS (not TS) Starter/Boilerplate
