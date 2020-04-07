@@ -1,0 +1,7 @@
+{
+  "name": "anpr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
